@@ -5067,7 +5067,7 @@ MonoBehaviour:
   outroLines:
   - What a find. And this mission was only planned to last 90 Martian days.
   - Opportunity is just getting started.
-  nextSceneName: 
+  nextSceneName: Ending
 --- !u!114 &681137878
 MonoBehaviour:
   m_ObjectHideFlags: 0
